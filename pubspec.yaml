@@ -21,7 +21,8 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_plugin_android_lifecycle: ^2.0.1
+  flutter_plugin_android_lifecycle:
+    git: https://github.com/kumsumit/flutter_plugin_android_lifecycle.git 
   intl: ">=0.17.0 <0.19.0"
   local_auth_platform_interface:
     git: https://github.com/kumsumit/local_auth_platform_interface.git

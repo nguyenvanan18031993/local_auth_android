@@ -201,10 +201,11 @@ packages:
   flutter_plugin_android_lifecycle:
     dependency: "direct main"
     description:
-      name: flutter_plugin_android_lifecycle
-      sha256: f185ac890306b5779ecbd611f52502d8d4d63d27703ef73161ca0407e815f02c
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "44ee7ee4170774c6f30805e8946e55b8a6d7576f"
+      url: "https://github.com/kumsumit/flutter_plugin_android_lifecycle.git"
+    source: git
     version: "2.0.16"
   flutter_test:
     dependency: "direct dev"
