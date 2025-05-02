@@ -72,10 +72,10 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: a683d42201cb5d419c7df0c29c745d2f25efec39
+      resolved-ref: d4d154ef5538f317478dee4b0da1b859f4151150
       url: "https://github.com/kumsumit/flutter_plugin_android_lifecycle.git"
     source: git
-    version: "2.0.17"
+    version: "2.0.27"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -95,10 +95,10 @@ packages:
     dependency: transitive
     description:
       name: intl
-      sha256: "3df61194eb431efc39c4ceba583b95633a403f46c9fd341e550ce0bfa50e9aa5"
+      sha256: d6f56758b7d3014a48af9701c085700aac781a92a87a62b1333b46d8879661cf
       url: "https://pub.dev"
     source: hosted
-    version: "0.20.2"
+    version: "0.19.0"
   leak_tracker:
     dependency: transitive
     description:
@@ -129,13 +129,13 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "1.0.48"
+    version: "1.0.49"
   local_auth_platform_interface:
     dependency: "direct main"
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "13607da3bb93e0f58e82287c4c088a5af7d310f9"
+      resolved-ref: "33fbff2e1d0d4fb2a080d8c87c3a22c9de6d9661"
       url: "https://github.com/kumsumit/local_auth_platform_interface.git"
     source: git
     version: "1.0.10"

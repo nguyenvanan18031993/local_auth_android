@@ -57,9 +57,9 @@
     },
     {
       "name": "flutter_plugin_android_lifecycle",
-      "rootUri": "file:///home/sumit/.pub-cache/git/flutter_plugin_android_lifecycle-a683d42201cb5d419c7df0c29c745d2f25efec39/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/flutter_plugin_android_lifecycle-d4d154ef5538f317478dee4b0da1b859f4151150/",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.6"
     },
     {
       "name": "flutter_test",
@@ -81,9 +81,9 @@
     },
     {
       "name": "intl",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/intl-0.20.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/intl-0.19.0",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.0"
     },
     {
       "name": "leak_tracker",
@@ -111,9 +111,9 @@
     },
     {
       "name": "local_auth_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/local_auth_platform_interface-13607da3bb93e0f58e82287c4c088a5af7d310f9/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/local_auth_platform_interface-33fbff2e1d0d4fb2a080d8c87c3a22c9de6d9661/",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.7"
     },
     {
       "name": "matcher",
@@ -230,10 +230,10 @@
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2025-04-08T04:19:49.290177Z",
+  "generated": "2025-05-02T05:22:37.944216Z",
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///home/sumit/softwares/flutter",
-  "flutterVersion": "3.29.2",
+  "flutterVersion": "3.29.3",
   "pubCache": "file:///home/sumit/.pub-cache"
 }
