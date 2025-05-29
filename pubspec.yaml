@@ -24,8 +24,7 @@ dependencies:
   flutter_plugin_android_lifecycle:
     git: https://github.com/kumsumit/flutter_plugin_android_lifecycle.git
   intl: ">=0.20.2 <0.21.0"
-  local_auth_platform_interface:
-    git: https://github.com/kumsumit/local_auth_platform_interface.git
+  local_auth_platform_interface: ^1.0.1
 
 dev_dependencies:
   build_runner: ^2.4.15
